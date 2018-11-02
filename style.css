@@ -628,10 +628,15 @@ footer {
     margin: 50px auto;
     width: 250px;
   }
-  .footer-middle-three ul, .footer-middle-three h2, .footer-bottom-left ul li, .footer-bottom-right {
+  .footer-middle-three ul, .footer-middle-three h2, .footer-bottom-left ul li {
     padding: 0;
     width: 190px;
     margin: 0 auto;
+  }
+  .footer-bottom-right {
+    padding: 0;
+    margin: 20px auto;
+    width: auto;
   }
   .footer-bottom-left {
     width: 250px;
